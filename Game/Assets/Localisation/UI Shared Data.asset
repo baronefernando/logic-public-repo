@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 8eb4f79fdf190b6f589df36aea2ad8f4
+  m_Entries:
+  - m_Id: 2960072488640512
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2959052098363392
+    m_Key: username_taken_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958446377951232
+    m_Key: username_taken_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46666056065024
+    m_Key: username
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67305903087616
+    m_Key: unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962906802151424
+    m_Key: too_small_room_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962681345728512
+    m_Key: too_small_room_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2963571632889856
+    m_Key: too_big_room_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2963475746906112
+    m_Key: too_big_room_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953449137364992
+    m_Key: time_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966456361934848
+    m_Key: time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956231005298688
+    m_Key: tasks_repaired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956025719283712
+    m_Key: tasks_completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60085245173760
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67403550679040
+    m_Key: size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953639713955840
+    m_Key: score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67989796937728
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68056377319424
+    m_Key: room_size_10_50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954316519432192
+    m_Key: room_not_found_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954046280425472
+    m_Key: room_not_found_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2960640405790720
+    m_Key: room_no_input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957569084743680
+    m_Key: room_locked_wrong_pin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2957014333513728
+    m_Key: room_locked_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2956493010886656
+    m_Key: room_locked_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36263263592448
+    m_Key: room_code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2955866855825408
+    m_Key: results
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67209895469056
+    m_Key: privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2953644378021888
+    m_Key: points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536555413504
+    m_Key: player_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24084149821440
+    m_Key: play_offiline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47029805056
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24345719201792
+    m_Key: online
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24232410079232
+    m_Key: offline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2960117766152192
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3116830364393472
+    m_Key: faulty_lock_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67777707761664
+    m_Key: locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 976231718912
+    m_Key: loading_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3110340840775680
+    m_Key: loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2960506989174784
+    m_Key: leave_room_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2960249765093376
+    m_Key: leave_room_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60312882634752
+    m_Key: leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816315490304
+    m_Key: joining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28375199637504
+    m_Key: join_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45665999773696
+    m_Key: join_btn_normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24392213061632
+    m_Key: join_btn_arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965307806310400
+    m_Key: into_binary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210486026240
+    m_Key: how_to_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964161523998720
+    m_Key: how_many_players_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2963910742368256
+    m_Key: how_many_players_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965932036186112
+    m_Key: help_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2959668233232384
+    m_Key: go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2959551665135616
+    m_Key: get_ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2952986333667328
+    m_Key: fix_me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2966580328783872
+    m_Key: fix_gates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965187790495744
+    m_Key: faulty_lock_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58330298048512
+    m_Key: empty_slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67894175195136
+    m_Key: edit_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60273443594240
+    m_Key: edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77267672883200
+    m_Key: create_room_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77186395660288
+    m_Key: create_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24646719234048
+    m_Key: create_btn_plus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964725674663936
+    m_Key: convert_to_binary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965202982264832
+    m_Key: convert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2962313798868992
+    m_Key: connection_error_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2960778171899904
+    m_Key: connection_error_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46524083068928
+    m_Key: code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2965751387512832
+    m_Key: check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094360096768
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119158429605888
+    m_Key: enter_a_pin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3120653950640128
+    m_Key: enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121537422057472
+    m_Key: oh_no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121743941197824
+    m_Key: no_stats_available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3124135168434176
+    m_Key: game_over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130701619781632
+    m_Key: revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3139850139197440
+    m_Key: wrong_answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144654437605376
+    m_Key: loading_stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3145160140644352
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3170039359463424
+    m_Key: sad_task_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3170735269994496
+    m_Key: happy_task_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3171601746092032
+    m_Key: broken_task_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3173854838120448
+    m_Key: next_btn
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2856445762192015384
+  references:
+    version: 2
+    RefIds:
+    - rid: 2856445762192015384
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678744804472
